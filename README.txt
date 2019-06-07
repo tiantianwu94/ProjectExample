@@ -1,5 +1,5 @@
 
-0.	The has two main codes: one for dataset 1, the other for dataset 2
+0.	The project has two main codes: one for dataset 1, the other for dataset 2
 	project1_Dataset1.py
 	project1_Dataset2.py
 
